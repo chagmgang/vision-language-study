@@ -5,4 +5,4 @@
 
 |   Date  |       Presentor       |                                                                                                              Paper                                                                                                       |
 |:-------:|:--------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-12-10 |     [KevinCha](https://github.com/chagmgang)     |  [Link](/material/A dive into vision-language-model.pdf) |
+| 2024-12-10 |     [KevinCha](https://github.com/chagmgang)     |  [Link](/material/Adiveintovision-language-model.pdf) |
