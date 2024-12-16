@@ -1,6 +1,11 @@
 
 # VLM-Study
 
+Participant
+* [MrBananaHuman](https://github.com/MrBananaHuman)
+* [HwangJohn](https://github.com/HwangJohn)
+* [chagmgang](https://github.com/chagmgang)
+
 ## Milestone Materials
 
 |   Date  |       Presentor       |                                                                                                              Paper                                                                                                       |
