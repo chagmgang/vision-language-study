@@ -15,4 +15,4 @@ Participant
 | 2024-12-26 |     [MrBananaHuman](https://github.com/MrBananaHuman)     |  [Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing.pdf](/material/Unifying_Vision,_Text,_and_Layout_for_Universal_Document_Processing.pdf) |
 | 2025-01-08 |     [KevinCha](https://github.com/chagmgang)     |  [VisionLLM_VisionLLMv2.pdf](/material/VisionLLM_VisionLLMv2.pdf) |
 | 2025-01-15 |     [HwangJohn](https://github.com/HwangJohn)     |  [an_introduction_of_vision_language_model.pdf](/material/an_introduction_of_vision_language_model.pdf) |
-| 2025-01-22 |     [MrBananaHuman](https://github.com/MrBananaHuman)     |  [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models (DoCo)](/material/doco review.docx.pdf) |
+| 2025-01-22 |     [MrBananaHuman](https://github.com/MrBananaHuman)     |  [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models (DoCo)](/material/doco review.pdf) |
