@@ -20,3 +20,4 @@ Participant
 | 2025-02-14 |     [HwangJohn](https://github.com/HwangJohn)     |  [Vision_language_models_are_blind.pdf](/material/Vision_language_models_are_blind.pdf) |
 | 2025-02-19 |     [MrBananaHuman](https://github.com/MrBananaHuman)     |  [Hierarchical Vision Feature Aggregation for OCR-Free Document Understanding.pdf](/material/vlm.pdf) |
 | 2025-03-05 |     [chagmgang](https://github.com/chagmgang)     |  [RLAIF-V: Open-Source AI FeedbackLeads to Super GPT-4V Trustworthiness.pdf](/material/RLAIF-V.pdf) |
+| 2025-03-19 |     [chagmgang](https://github.com/chagmgang)     |  [LLMs_can_see_and_hear_without_any_training](/material/LLMs_can_see_and_hear_without_any_training.pdf) |
