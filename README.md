@@ -23,3 +23,4 @@ Participant
 | 2025-03-19 |     [chagmgang](https://github.com/chagmgang)     |  [LLMs_can_see_and_hear_without_any_training](/material/LLMs_can_see_and_hear_without_any_training.pdf) |
 | 2025-04-09 |     [HwangJohn](https://github.com/HwangJohn)     |  [Phi4-multimodal](https://github.com/HwangJohn/vlm-study/tree/main/phi-multimodal)|
 | 2025-04-23 |     [chagmgang](https://github.com/chagmgang)     |  [SmolVLM](/material/SmolVLM.pdf) |
+| 2025-04-30 |     [HwangJohn](https://github.com/HwangJohn)     |  [InternVL3](/material/InternVL3.pdf) |
