@@ -22,4 +22,4 @@ Participant
 | 2025-03-05 |     [chagmgang](https://github.com/chagmgang)     |  [RLAIF-V: Open-Source AI FeedbackLeads to Super GPT-4V Trustworthiness.pdf](/material/RLAIF-V.pdf) |
 | 2025-03-19 |     [chagmgang](https://github.com/chagmgang)     |  [LLMs_can_see_and_hear_without_any_training](/material/LLMs_can_see_and_hear_without_any_training.pdf) |
 | 2025-04-09 |     [HwangJohn](https://github.com/HwangJohn)     |  [Phi4-multimodal](https://github.com/HwangJohn/vlm-study/tree/main/phi-multimodal)|
-| 2025-04-23 |     [chagmgang](https://github.com/chagmgang)     |  [SmolVLM](https://github.com/HwangJohn/vlm-study/tree/main/SmolVLM/SmolVLM.pdf)|
+| 2025-04-23 |     [chagmgang](https://github.com/chagmgang)     |  [SmolVLM](/material/SmolVLM.pdf) |
